@@ -1,12 +1,9 @@
 # 000017_kaggle_pratice
 ## You can do it! Be patient.
 
-
-
-
-
-
-
+## 100417
+## Exploring Features
+## https://www.kaggle.com/cast42/exploring-features
 
 ## 100217
 
@@ -14,6 +11,7 @@
 ## https://www.kaggle.com/triskelion/first-try-with-random-forests/code
 
 ## 093017
+
 ## Kaggle: introduction to ensemblier/stacking in Python
 ## https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python
 ## data
