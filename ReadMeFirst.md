@@ -5,8 +5,6 @@
 ## Exploring Features
 ## https://www.kaggle.com/cast42/exploring-features
 
-## 100217
-
 ## 100217_kaggle_forest_cover
 ## https://www.kaggle.com/triskelion/first-try-with-random-forests/code
 
