@@ -1,6 +1,10 @@
 # 000017_kaggle_pratice
 ## You can do it! Be patient.
 
+## 012518
+## 012518_kaggle_imbalanced_data
+## https://www.kaggle.com/dstuerzer/optimized-logistic-regression
+
 ## 100417
 ## Exploring Features
 ## https://www.kaggle.com/cast42/exploring-features
